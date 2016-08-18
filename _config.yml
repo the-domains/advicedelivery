@@ -1,0 +1,14 @@
+layout_spectrum: 0.6281619
+color:
+  saturation: 0.3862627
+  brandStrength: 0.4274873
+  lightness: 0.8128162
+  brandColors:
+    - '#FFFFFF'
+    - '#3D3D3D'
+    - '#26BBFF'
+    - '#DA3C42'
+    - '#E79496'
+  rhythmicContrast: 0.4056706
+typography_spectrum: 0.5370995
+name: AdviceDelivery
